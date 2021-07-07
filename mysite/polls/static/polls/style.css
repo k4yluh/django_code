@@ -1,0 +1,11 @@
+li a {
+    color: #b8d3ff;
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 500px;
+}
+
+body {
+    background: white url("images/background.gif") no-repeat center fixed;
+    background-size: cover;
+}
